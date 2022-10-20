@@ -1,0 +1,3 @@
+/Users/kkrasilnikovv/CLionProjects/Laba_Algoritm/cmake-build-debug/CMakeFiles/Laba_Algoritm.dir
+/Users/kkrasilnikovv/CLionProjects/Laba_Algoritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kkrasilnikovv/CLionProjects/Laba_Algoritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
